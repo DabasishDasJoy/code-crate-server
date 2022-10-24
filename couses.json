@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "6356c84d0ba39aff113075f9",
+    "title": "",
+    "img_url": "",
+    "ratings": 1.5253,
+    "author": [
+      {
+        "author_id": "6356c84dcf9a18c57b763748",
+        "author_img": "",
+        "author_name": "Roseann Potts"
+      }
+    ],
+    "price": "$3,146.21",
+    "category": [
+      {
+        "category_id": "6356c84d0efc5ab233bc3407",
+        "category_name": ""
+      }
+    ]
+  },
+  {
+    "_id": "6356c84d64ec1622fb6e050b",
+    "title": "",
+    "img_url": "",
+    "ratings": 4.0096,
+    "author": [
+      {
+        "author_id": "6356c84d2437f0fa42722e23",
+        "author_img": "",
+        "author_name": "Roberson Kane"
+      }
+    ],
+    "price": "$1,368.57",
+    "category": [
+      {
+        "category_id": "6356c84d44145c8091ed2c05",
+        "category_name": ""
+      }
+    ]
+  },
+  {
+    "_id": "6356c84d6dab4177d0049bf8",
+    "title": "",
+    "img_url": "",
+    "ratings": 1.4261,
+    "author": [
+      {
+        "author_id": "6356c84dee7e791d4799156b",
+        "author_img": "",
+        "author_name": "Colleen Ferguson"
+      }
+    ],
+    "price": "$1,323.77",
+    "category": [
+      {
+        "category_id": "6356c84d9f75e90c267b0e21",
+        "category_name": ""
+      }
+    ]
+  },
+  {
+    "_id": "6356c84ded607f360eb5b260",
+    "title": "",
+    "img_url": "",
+    "ratings": 3.173,
+    "author": [
+      {
+        "author_id": "6356c84d1ee2da015ae1d127",
+        "author_img": "",
+        "author_name": "Fox Nash"
+      }
+    ],
+    "price": "$2,956.19",
+    "category": [
+      {
+        "category_id": "6356c84ddc7202353cf8adec",
+        "category_name": ""
+      }
+    ]
+  },
+  {
+    "_id": "6356c84df52ae3263f546ea2",
+    "title": "",
+    "img_url": "",
+    "ratings": 3.8058,
+    "author": [
+      {
+        "author_id": "6356c84db00c99a5e393e900",
+        "author_img": "",
+        "author_name": "Erika Frost"
+      }
+    ],
+    "price": "$1,649.68",
+    "category": [
+      {
+        "category_id": "6356c84de0388e2b72d92a51",
+        "category_name": ""
+      }
+    ]
+  },
+  {
+    "_id": "6356c84d2d2b3dd83bf36ad8",
+    "title": "",
+    "img_url": "",
+    "ratings": 0.7739,
+    "author": [
+      {
+        "author_id": "6356c84d3d9e3c1741bef5c8",
+        "author_img": "",
+        "author_name": "Lorie Elliott"
+      }
+    ],
+    "price": "$1,206.65",
+    "category": [
+      {
+        "category_id": "6356c84d47457ab0310fce87",
+        "category_name": ""
+      }
+    ]
+  },
+  {
+    "_id": "6356c84d2147aa48fbf8901c",
+    "title": "",
+    "img_url": "",
+    "ratings": 1.9748,
+    "author": [
+      {
+        "author_id": "6356c84df5f3b4d1bb0f4c91",
+        "author_img": "",
+        "author_name": "Juliana Harvey"
+      }
+    ],
+    "price": "$2,910.63",
+    "category": [
+      {
+        "category_id": "6356c84d412d01763d9e5d01",
+        "category_name": ""
+      }
+    ]
+  }
+]

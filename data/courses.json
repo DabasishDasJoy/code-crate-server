@@ -3,7 +3,7 @@
     "_id": "6356c84d0ba39aff113075f9",
     "title": "JavaScript",
     "img_url": "https://i.ibb.co/6wmH4Zp/javascript.png",
-    "ratings": 1.5253,
+    "ratings": 4.5,
     "author": [
       {
         "author_id": "6356c84dcf9a18c57b763748",
@@ -23,7 +23,7 @@
     "_id": "6356c84d64ec1622fb6e050b",
     "title": "Python",
     "img_url": "https://i.ibb.co/yWkxHrC/python.png",
-    "ratings": 4.0096,
+    "ratings": 4,
     "author": [
       {
         "author_id": "6356c84d2437f0fa42722e23",
@@ -43,7 +43,7 @@
     "_id": "6356c84d6dab4177d0049bf8",
     "title": "C/C++",
     "img_url": "https://i.ibb.co/Pr7q6y0/cc.png",
-    "ratings": 1.4261,
+    "ratings": 5,
     "author": [
       {
         "author_id": "6356c84dee7e791d4799156b",
@@ -63,7 +63,7 @@
     "_id": "6356c84ded607f360eb5b260",
     "title": "React",
     "img_url": "https://i.ibb.co/nzsh2q5/react.png",
-    "ratings": 3.173,
+    "ratings": 5,
     "author": [
       {
         "author_id": "6356c84d1ee2da015ae1d127",
@@ -83,7 +83,7 @@
     "_id": "6356c84df52ae3263f546ea2",
     "title": "Angular",
     "img_url": "https://i.ibb.co/CsYyTsL/angular.png",
-    "ratings": 3.8058,
+    "ratings": 4,
     "author": [
       {
         "author_id": "6356c84db00c99a5e393e900",
@@ -103,7 +103,7 @@
     "_id": "6356c84d2d2b3dd83bf36ad8",
     "title": "Ruby on Rails",
     "img_url": "https://i.ibb.co/tHqqh5d/ruby.png",
-    "ratings": 0.7739,
+    "ratings": 4.5,
     "author": [
       {
         "author_id": "6356c84d3d9e3c1741bef5c8",
@@ -123,7 +123,7 @@
     "_id": "6356c84d2147aa48fbf8901c",
     "title": "Vue Js",
     "img_url": "https://i.ibb.co/7rqZMVb/vue.png",
-    "ratings": 1.9748,
+    "ratings": 5,
     "author": [
       {
         "author_id": "6356c84df5f3b4d1bb0f4c91",

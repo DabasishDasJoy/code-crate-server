@@ -1,13 +1,13 @@
 [
   {
     "_id": "6356c84d0ba39aff113075f9",
-    "title": "",
-    "img_url": "",
+    "title": "JavaScript",
+    "img_url": "https://i.ibb.co/6wmH4Zp/javascript.png",
     "ratings": 1.5253,
     "author": [
       {
         "author_id": "6356c84dcf9a18c57b763748",
-        "author_img": "",
+        "author_img": "https://i.ibb.co/3Y0QrXC/female-2835524-1280-min-1.jpg",
         "author_name": "Roseann Potts"
       }
     ],
@@ -21,14 +21,14 @@
   },
   {
     "_id": "6356c84d64ec1622fb6e050b",
-    "title": "",
-    "img_url": "",
+    "title": "Python",
+    "img_url": "https://i.ibb.co/yWkxHrC/python.png",
     "ratings": 4.0096,
     "author": [
       {
         "author_id": "6356c84d2437f0fa42722e23",
-        "author_img": "",
-        "author_name": "Roberson Kane"
+        "author_img": "https://i.ibb.co/rd9cM3F/IMG-5515-min.jpg",
+        "author_name": "Dabasish Das Joy"
       }
     ],
     "price": "$1,368.57",
@@ -41,14 +41,14 @@
   },
   {
     "_id": "6356c84d6dab4177d0049bf8",
-    "title": "",
-    "img_url": "",
+    "title": "C/C++",
+    "img_url": "https://i.ibb.co/Pr7q6y0/cc.png",
     "ratings": 1.4261,
     "author": [
       {
         "author_id": "6356c84dee7e791d4799156b",
-        "author_img": "",
-        "author_name": "Colleen Ferguson"
+        "author_img": "https://i.ibb.co/rd9cM3F/IMG-5515-min.jpg",
+        "author_name": "Dabasish Das Joy"
       }
     ],
     "price": "$1,323.77",
@@ -61,13 +61,13 @@
   },
   {
     "_id": "6356c84ded607f360eb5b260",
-    "title": "",
-    "img_url": "",
+    "title": "React",
+    "img_url": "https://i.ibb.co/nzsh2q5/react.png",
     "ratings": 3.173,
     "author": [
       {
         "author_id": "6356c84d1ee2da015ae1d127",
-        "author_img": "",
+        "author_img": "https://i.ibb.co/v4CZkWs/istockphoto-1300512215-612x612-min.jpg",
         "author_name": "Fox Nash"
       }
     ],
@@ -81,13 +81,13 @@
   },
   {
     "_id": "6356c84df52ae3263f546ea2",
-    "title": "",
-    "img_url": "",
+    "title": "Angular",
+    "img_url": "https://i.ibb.co/CsYyTsL/angular.png",
     "ratings": 3.8058,
     "author": [
       {
         "author_id": "6356c84db00c99a5e393e900",
-        "author_img": "",
+        "author_img": "https://i.ibb.co/w7zMfnS/istockphoto-1300972573-612x612-min.jpg",
         "author_name": "Erika Frost"
       }
     ],
@@ -101,13 +101,13 @@
   },
   {
     "_id": "6356c84d2d2b3dd83bf36ad8",
-    "title": "",
-    "img_url": "",
+    "title": "Ruby on Rails",
+    "img_url": "https://i.ibb.co/tHqqh5d/ruby.png",
     "ratings": 0.7739,
     "author": [
       {
         "author_id": "6356c84d3d9e3c1741bef5c8",
-        "author_img": "",
+        "author_img": "https://i.ibb.co/SxYBHVN/pexels-photo-2379004-min.jpg",
         "author_name": "Lorie Elliott"
       }
     ],
@@ -121,13 +121,13 @@
   },
   {
     "_id": "6356c84d2147aa48fbf8901c",
-    "title": "",
-    "img_url": "",
+    "title": "Vue Js",
+    "img_url": "https://i.ibb.co/7rqZMVb/vue.png",
     "ratings": 1.9748,
     "author": [
       {
         "author_id": "6356c84df5f3b4d1bb0f4c91",
-        "author_img": "",
+        "author_img": "https://i.ibb.co/w7zMfnS/istockphoto-1300972573-612x612-min.jpg",
         "author_name": "Juliana Harvey"
       }
     ],

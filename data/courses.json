@@ -4,13 +4,15 @@
     "title": "JavaScript",
     "img_url": "https://i.ibb.co/6wmH4Zp/javascript.png",
     "ratings": 4.5,
-    "author": [
-      {
-        "author_id": "6356c84dcf9a18c57b763748",
-        "author_img": "https://i.ibb.co/3Y0QrXC/female-2835524-1280-min-1.jpg",
-        "author_name": "Roseann Potts"
-      }
-    ],
+    "hours": "17 h 30m ",
+    "lessons": "220",
+    "description": "This course is for beginners. We ensure that by this cource you can get a production standard knowledge to survive is this competetive world",
+
+    "author": {
+      "author_id": "6356c84dcf9a18c57b763748",
+      "author_img": "https://i.ibb.co/3Y0QrXC/female-2835524-1280-min-1.jpg",
+      "author_name": "Roseann Potts"
+    },
     "price": "$3,146.21",
     "category": [
       {
@@ -24,13 +26,16 @@
     "title": "Python",
     "img_url": "https://i.ibb.co/yWkxHrC/python.png",
     "ratings": 4,
-    "author": [
-      {
-        "author_id": "6356c84d2437f0fa42722e23",
-        "author_img": "https://i.ibb.co/rd9cM3F/IMG-5515-min.jpg",
-        "author_name": "Dabasish Das Joy"
-      }
-    ],
+
+    "hours": "17 h 30m ",
+    "lessons": "220",
+    "description": "This course is for beginners. We ensure that by this cource you can get a production standard knowledge to survive is this competetive world",
+
+    "author": {
+      "author_id": "6356c84d2437f0fa42722e23",
+      "author_img": "https://i.ibb.co/rd9cM3F/IMG-5515-min.jpg",
+      "author_name": "Dabasish Das Joy"
+    },
     "price": "$1,368.57",
     "category": [
       {
@@ -44,13 +49,16 @@
     "title": "C/C++",
     "img_url": "https://i.ibb.co/Pr7q6y0/cc.png",
     "ratings": 5,
-    "author": [
-      {
-        "author_id": "6356c84dee7e791d4799156b",
-        "author_img": "https://i.ibb.co/rd9cM3F/IMG-5515-min.jpg",
-        "author_name": "Dabasish Das Joy"
-      }
-    ],
+
+    "hours": "17 h 30m ",
+    "lessons": "220",
+    "description": "This course is for beginners. We ensure that by this cource you can get a production standard knowledge to survive is this competetive world",
+
+    "author": {
+      "author_id": "6356c84dee7e791d4799156b",
+      "author_img": "https://i.ibb.co/rd9cM3F/IMG-5515-min.jpg",
+      "author_name": "Dabasish Das Joy"
+    },
     "price": "$1,323.77",
     "category": [
       {
@@ -64,13 +72,16 @@
     "title": "React",
     "img_url": "https://i.ibb.co/nzsh2q5/react.png",
     "ratings": 5,
-    "author": [
-      {
-        "author_id": "6356c84d1ee2da015ae1d127",
-        "author_img": "https://i.ibb.co/v4CZkWs/istockphoto-1300512215-612x612-min.jpg",
-        "author_name": "Fox Nash"
-      }
-    ],
+
+    "hours": "17 h 30m ",
+    "lessons": "220",
+    "description": "This course is for beginners. We ensure that by this cource you can get a production standard knowledge to survive is this competetive world",
+
+    "author": {
+      "author_id": "6356c84d1ee2da015ae1d127",
+      "author_img": "https://i.ibb.co/v4CZkWs/istockphoto-1300512215-612x612-min.jpg",
+      "author_name": "Fox Nash"
+    },
     "price": "$2,956.19",
     "category": [
       {
@@ -84,13 +95,16 @@
     "title": "Angular",
     "img_url": "https://i.ibb.co/CsYyTsL/angular.png",
     "ratings": 4,
-    "author": [
-      {
-        "author_id": "6356c84db00c99a5e393e900",
-        "author_img": "https://i.ibb.co/w7zMfnS/istockphoto-1300972573-612x612-min.jpg",
-        "author_name": "Erika Frost"
-      }
-    ],
+
+    "hours": "17 h 30m ",
+    "lessons": "220",
+    "description": "This course is for beginners. We ensure that by this cource you can get a production standard knowledge to survive is this competetive world",
+
+    "author": {
+      "author_id": "6356c84db00c99a5e393e900",
+      "author_img": "https://i.ibb.co/w7zMfnS/istockphoto-1300972573-612x612-min.jpg",
+      "author_name": "Erika Frost"
+    },
     "price": "$1,649.68",
     "category": [
       {
@@ -104,13 +118,15 @@
     "title": "Ruby on Rails",
     "img_url": "https://i.ibb.co/tHqqh5d/ruby.png",
     "ratings": 4.5,
-    "author": [
-      {
-        "author_id": "6356c84d3d9e3c1741bef5c8",
-        "author_img": "https://i.ibb.co/SxYBHVN/pexels-photo-2379004-min.jpg",
-        "author_name": "Lorie Elliott"
-      }
-    ],
+    "hours": "17 h 30m ",
+    "lessons": "220",
+    "description": "Angular is the most demanding library for building website now-a-days. SO to compete with the whole world we ensure the possibility of highest gain by lowest investment.",
+
+    "author": {
+      "author_id": "6356c84d3d9e3c1741bef5c8",
+      "author_img": "https://i.ibb.co/SxYBHVN/pexels-photo-2379004-min.jpg",
+      "author_name": "Lorie Elliott"
+    },
     "price": "$1,206.65",
     "category": [
       {
@@ -124,14 +140,40 @@
     "title": "Vue Js",
     "img_url": "https://i.ibb.co/7rqZMVb/vue.png",
     "ratings": 5,
-    "author": [
-      {
-        "author_id": "6356c84df5f3b4d1bb0f4c91",
-        "author_img": "https://i.ibb.co/w7zMfnS/istockphoto-1300972573-612x612-min.jpg",
-        "author_name": "Juliana Harvey"
-      }
-    ],
+
+    "hours": "17 h 30m ",
+    "lessons": "220",
+    "description": "This course is for beginners. We ensure that by this cource you can get a production standard knowledge to survive is this competetive world",
+
+    "author": {
+      "author_id": "6356c84df5f3b4d1bb0f4c91",
+      "author_img": "https://i.ibb.co/w7zMfnS/istockphoto-1300972573-612x612-min.jpg",
+      "author_name": "Juliana Harvey"
+    },
     "price": "$2,910.63",
+    "category": [
+      {
+        "category_id": "6356c84d412d01763d9e5d01",
+        "category_name": ""
+      }
+    ]
+  },
+  {
+    "_id": "6356c84d2147aa48fbf8901cYOihg9",
+    "title": "Java",
+    "img_url": "https://rosamarfil.es/tutoriales/wp-content/uploads/2019/08/java-logo-png.png",
+    "ratings": 5,
+
+    "hours": "18 h 30m ",
+    "lessons": "300",
+    "description": "Java is a pure object oriented language. So building basement upon it will be a great advantage. We provide world class teaching here.",
+
+    "author": {
+      "author_id": "6356c84df5f3b4d1bb0f4c91Okasdliw6",
+      "author_img": "https://i.ibb.co/w7zMfnS/istockphoto-1300972573-612x612-min.jpg",
+      "author_name": "Juliana Harvey"
+    },
+    "price": "$4,910.63",
     "category": [
       {
         "category_id": "6356c84d412d01763d9e5d01",

@@ -1,6 +1,6 @@
 ##About
 
-- A server side project for Code Crate application
+- A server side project for Code Crate website.
 - Build with express JS
 - Nodemon to run the server
 - Vercel to deploy the server
